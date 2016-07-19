@@ -1,0 +1,6 @@
+name: Pets
+author: A BUNCH OF PEOPLE.
+description: Simple Pets Plugin By Lifeboat || STOLEN BY lordJoshie !! ||
+version: 1.0.0 
+main: pets\main
+api: [2.0.0] 
