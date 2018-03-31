@@ -42,7 +42,7 @@ class main extends PluginBase implements Listener {
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 	}
 	public function create($player,$type, Position $source, ...$args) {
-		$chunk = $source->getLevel()->getChunk($source->x >> 4, $source->z >> 4, true);
+		$level = $source->getLevel($source->x >> 4, $source->z >> 4, true);
 		$nbt = new CompoundTag("", [
 			"Pos" => new ListTag("Pos", [
 				new DoubleTag("", $source->x),
@@ -59,7 +59,7 @@ class main extends PluginBase implements Listener {
 				new FloatTag("", $source instanceof Location ? $source->pitch : 0)
 					]),
 		]);
-		$pet = Entity::createEntity($type, $chunk, $nbt, ...$args);
+		$pet = Entity::createEntity($type, $level, $nbt, ...$args);
 		$data = new Config($this->getDataFolder() . "players/" . strtolower($player->getName()) . ".yml", Config::YAML);
 		$data->set("type", $type); 
 		$data->save();
