@@ -1,6 +1,6 @@
-name: Pets
-author: A BUNCH OF PEOPLE.
-description: Simple Pets Plugin By Lifeboat || STOLEN BY lordJoshie !! ||
-version: 1.0.0 
+name: MyPet
+author: MalakasPlayzMC
+description: Pets plugin for MCPE.
+version: 1.0.0
 main: pets\main
-api: [2.0.0] 
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
