@@ -4,51 +4,51 @@ PetOffMsg: §b[Pet -> Me]§f - §eOkay, I'll be around.
 
 ####################################################
 ##Set Cost Of A Dog & Message When it's Selected
-SpawnDogMsg: §bYour Dog is Here ! §aCost - $10,000
+SpawnDogMsg: §bYour Dog is Here! §aCost - $10,000
 DogCost: 10000
 
 ##Set Cost Of A Cat & Message When it's Selected
-SpawnCatMsg: §bYour Cat is Here ! §aCost - $10,000
+SpawnCatMsg: §bYour Cat is Here! §aCost - $10,000
 CatCost: 10000
 
 ##Set Cost Of A Rabbit & Message When it's Selected
-SpawnBrownRabbitMsg: §bYour BrownRabbit is Here ! §aCost - $10,000
+SpawnBrownRabbitMsg: §bYour BrownRabbit is Here! §aCost - $10,000
 BrownRabbitCost: 10000
 
 ##Set Cost Of A Chicken & Message When Selected
-SpawnChickenMsg: §bYour Chicken is Here ! §aCost - $5,000
+SpawnChickenMsg: §bYour Chicken is Here! §aCost - $5,000
 ChickenCost: 5000
 
 ##Set Cost Of A Silverfish & Message When Selected
-SpawnSilverfishMsg: §bYour Silverfish is Here ! §aCost - $100,000
+SpawnSilverfishMsg: §bYour Silverfish is Here! §aCost - $100,000
 SilverfishCost: 100000
 
 ###Set Cost Of A Magma & Message When Selected
-SpawnMagmaMsg: §bYour Magma is Here ! §aCost - $5,000
+SpawnMagmaMsg: §bYour Magma is Here! §aCost - $5,000
 MagmaCost: 5000
 
 ##Set Cost Of A Creep & Message When Selected
-SpawnCreepMsg: §bYour Creep is Here ! §aCost - $15,000
+SpawnCreepMsg: §bYour Creep is Here! §aCost - $15,000
 CreepCost: 15000
 
 ##Set Cost Of A Ender & Message When Selected
-SpawnEnderMsg: §bYour Ender is Here ! §aCost - $75,000
+SpawnEnderMsg: §bYour Ender is Here! §aCost - $75,000
 EnderCost: 75000
 
 ##Set Cost Of A Zomb & Message When Selected
-SpawnZombieMsg: §bYour Zombie is Here ! §aCost - $35,000
+SpawnZombieMsg: §bYour Zombie is Here! §aCost - $35,000
 ZombieCost: 35000
 
 ##Set Cost Of A ZombVlgr & Message When Selected
-SpawnZombieVillagerMsg: §bYour ZombieVillager is Here ! §aCost - $35,000
+SpawnZombieVillagerMsg: §bYour ZombieVillager is Here! §aCost - $35,000
 ZombieVillagerCost: 35000
 
 ##Set Cost Of A Bat & Message When Selected 
-SpawnBatMsg: §bYour Bat is Here ! §aCost - $5,000
+SpawnBatMsg: §bYour Bat is Here! §aCost - $5,000
 BatCost: 5000
 
 ##Set Cost Of A Block & Message When Selected
-SpawnBlockMsg: §bYour Blockin is Here ! §aCost - $5,000
+SpawnBlockMsg: §bYour Blockin is Here! §aCost - $5,000
 BlockCost: 5000
 
 ########################################################
